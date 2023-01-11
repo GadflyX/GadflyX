@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GadflyX
 - 👀 I’m interested in JavaScript and FE engineering
-- 🌱 I’m currently working on Edison 
+- 🌱 I’m currently working on Yipitdata 
 
 <!---
 GadflyX/GadflyX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
