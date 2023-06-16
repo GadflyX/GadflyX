@@ -7,4 +7,4 @@ GadflyX/GadflyX is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://github-profile-trophy.vercel.app/?username=GadflyX&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /
+<img align="right" width="400px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alienover&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
